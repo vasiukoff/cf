@@ -1,2 +1,3 @@
-# cf
-Common files for various staff
+# cf - common files repo
+Common files for various duties.
+
